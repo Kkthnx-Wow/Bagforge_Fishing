@@ -7,7 +7,9 @@
 [![CurseForge](https://img.shields.io/badge/CurseForge-Download-orange)](https://www.curseforge.com/wow/addons/bagforge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+<p align="center">
 <img width="256" height="256" alt="Icon256" src="https://github.com/user-attachments/assets/dc9944c5-a6cf-4fc5-9cbb-914a87c46278" />
+<p>
 
 ---
 
